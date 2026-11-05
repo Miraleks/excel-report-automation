@@ -1,0 +1,311 @@
+order_id;order_date;customer;city;amount_eur;weight_kg
+A0001;13.06.2026;Hoffmann KG;München;1133,0;86.5
+A0002;01.06.2026;Schmidt Logistik; München ;122,31;26.1
+A0003;26.02.2026;Fischer Trans;BERLIN;475.03;131.9
+A0004;09.02.2026;Weber & Söhne;MÜNCHEN;1164,16;290.4
+A0005;2026-01-12;Hoffmann KG;MÜNCHEN;841.44;443.9
+A0006;28.05.2026;Schmidt Logistik; Köln ;n/a;788.3
+A0007;13.03.2026;Hoffmann KG;köln;1264,44;537.8
+A0008;2026-05-17;Becker Handel;BONN;312,03;513.8
+A0009;15.01.2026;Becker Handel;berlin;125,58;172.7
+A0010;17.06.2026;Hoffmann KG;MÜNCHEN;1336.25;116.0
+A0011;30.05.2026;Fischer Trans;Köln;908,62;115.0
+A0012;29.01.2026;Becker Handel;HAMBURG;307.17;310.9
+A0013;2026-05-22;Weber & Söhne;Berlin;96.3;431.9
+A0014;17.03.2026;Becker Handel;Bonn;724.29;214.4
+A0015;10.06.2026;Becker Handel;München;987.31;611.2
+A0016;03.06.2026;Weber & Söhne;Bonn;107.66;666.2
+A0017;2026-03-03;Becker Handel;bonn;1424,67;60.0
+A0018;18.06.2026;Schmidt Logistik;münchen;860,72;341.4
+A0019;21.03.2026;Schmidt Logistik;Bonn;1033,8;363.9
+A0020;28.03.2026;Hoffmann KG;köln;866.57;
+A0021;2026-01-18;Schmidt Logistik;münchen;1300,68;536.8
+A0022;2026-05-27;Hoffmann KG;HAMBURG;425,06;80.0
+A0023;19.04.2026;Müller GmbH;HAMBURG;1306,65;518.7
+A0024;28.01.2026;Schmidt Logistik; Köln ;350,1;226.4
+A0025;21.05.2026;Müller GmbH;bonn;1006.05;
+A0026;15.04.2026;Fischer Trans; Berlin ;383,52;306.3
+A0027;15.03.2026;Schmidt Logistik;BONN;1439.39;576.1
+A0028;2026-02-25;Becker Handel;hamburg;902.44;50.4
+A0029;2026-01-15;Schmidt Logistik;Hamburg;193,76;541.8
+A0030;26.05.2026;Becker Handel;BERLIN;924.22;469.0
+A0031;2026-02-22;Fischer Trans;Berlin;526,14;518.2
+A0032;03.01.2026;Weber & Söhne;BONN;1497.81;174.5
+A0033;2026-01-18;Becker Handel;München;604,73;564.3
+A0034;2026-06-20;Müller GmbH;köln;505.12;111.8
+A0035;11.03.2026;Becker Handel;HAMBURG;379,09;683.1
+A0036;14.01.2026;Schmidt Logistik;berlin;681,48;
+A0037;2026-04-24;Schmidt Logistik;München;687,32;707.1
+A0038;2026-04-05;Müller GmbH;berlin;290,29;719.7
+A0039;24.06.2026;Becker Handel;bonn;225.97;328.1
+A0040;2026-02-11;Hoffmann KG; Berlin ;1231.3;
+A0041;2026-06-21;Müller GmbH;hamburg;1231,26;90.9
+A0042;2026-02-21;Müller GmbH; Bonn ;733,63;185.9
+A0043;26.03.2026;Hoffmann KG;MÜNCHEN;178.58;410.0
+A0044;08.01.2026;Müller GmbH; München ;1457,97;216.0
+A0045;2026-03-30;Becker Handel;BONN;525.42;311.2
+A0046;2026-01-12;Hoffmann KG;BONN;82.4;576.9
+A0047;21.04.2026;Hoffmann KG;BERLIN;1023,22;679.2
+A0048;20.06.2026;Fischer Trans;BONN;651,41;339.3
+A0049;2026-04-14;Hoffmann KG; Berlin ;80,58;466.1
+A0050;24.04.2026;Schmidt Logistik;KÖLN;383,46;637.8
+A0051;2026-05-12;Weber & Söhne;bonn;959,35;191.7
+A0052;07.02.2026;Fischer Trans;münchen;427,68;62.9
+A0053;28.06.2026;Müller GmbH;hamburg;647,51;714.7
+A0054;2026-02-15;Müller GmbH;hamburg;1068,19;734.4
+A0055;2026-04-29;Becker Handel; München ;1482.81;713.7
+A0056;21.05.2026;Hoffmann KG; Berlin ;306.0;602.7
+A0057;10.06.2026;Becker Handel;köln;704.62;272.0
+A0058;08.02.2026;Becker Handel; Hamburg ;1065.41;329.0
+A0059;16.01.2026;Becker Handel; Hamburg ;676.6;557.9
+A0060;2026-01-02;Becker Handel;münchen;504,03;669.4
+A0061;05.05.2026;Fischer Trans; Bonn ;698,89;544.9
+A0062;2026-02-02;Müller GmbH;hamburg;838.46;532.1
+A0063;29.04.2026;Fischer Trans; Berlin ;449,42;273.3
+A0064;2026-03-06;Schmidt Logistik;Köln;747.84;761.8
+A0065;2026-01-08;Hoffmann KG;köln;363,09;105.3
+A0066;2026-04-30;Müller GmbH;BONN;1169,0;599.6
+A0067;2026-01-28;Hoffmann KG;Bonn;1399.02;303.4
+A0068;2026-06-01;Becker Handel;Köln;970,68;681.0
+A0069;2026-03-30;Fischer Trans;Hamburg;1019,36;15.1
+A0070;2026-04-21;Hoffmann KG;MÜNCHEN;982.53;351.2
+A0071;2026-06-07;Weber & Söhne;berlin;844,21;586.2
+A0072;23.01.2026;Weber & Söhne; Köln ;720.14;536.2
+A0073;25.03.2026;Hoffmann KG;Berlin;381.21;704.9
+A0074;2026-05-13;Hoffmann KG; Hamburg ;201.57;607.7
+A0075;2026-04-25;Becker Handel; Berlin ;212,14;248.4
+A0076;2026-05-22;Weber & Söhne;BERLIN;684.22;563.8
+A0077;01.03.2026;Schmidt Logistik;bonn;353,47;610.9
+A0078;04.05.2026;Schmidt Logistik;berlin;917.21;784.5
+A0079;03.04.2026;Becker Handel;berlin;100.09;779.6
+A0080;2026-06-13;Fischer Trans;berlin;777.05;378.2
+A0081;14.01.2026;Becker Handel;köln;1303,65;395.9
+A0082;2026-02-08;Fischer Trans;münchen;1427,76;448.7
+A0083;14.05.2026;Becker Handel;München;1370,08;345.9
+A0084;2026-06-06;Müller GmbH;bonn;220.91;215.4
+A0085;2026-02-14;Müller GmbH;BONN;302,28;378.6
+A0086;30.06.2026;Hoffmann KG;münchen;1300,64;215.3
+A0087;19.04.2026;Müller GmbH;BONN;399,23;118.1
+A0088;2026-06-02;Hoffmann KG;HAMBURG;888,27;552.5
+A0089;2026-05-09;Becker Handel;Berlin;701.62;589.0
+A0090;24.01.2026;Hoffmann KG;Berlin;1037.5;21.5
+A0091;14.02.2026;Hoffmann KG;Hamburg;1005.14;470.3
+A0092;01.05.2026;Hoffmann KG;HAMBURG;553.3;267.2
+A0093;2026-06-19;Weber & Söhne; Köln ;1235.26;255.0
+A0094;2026-05-12;Becker Handel; Berlin ;81.63;48.1
+A0095;10.06.2026;Hoffmann KG;Hamburg;153,29;234.0
+A0096;2026-01-08;Becker Handel;Hamburg;944,6;442.9
+A0097;2026-02-27;Fischer Trans;BERLIN;1376,36;666.6
+A0098;2026-04-17;Becker Handel;münchen;1471,95;310.0
+A0099;18.01.2026;Müller GmbH;BERLIN;1201,81;408.7
+A0100;2026-05-31;Weber & Söhne; München ;1017.12;390.1
+A0101;2026-04-27;Fischer Trans;KÖLN;1314.83;309.5
+A0102;2026-05-02;Schmidt Logistik;Hamburg;1232,2;657.5
+A0103;2026-02-02;Becker Handel;Hamburg;918.06;355.0
+A0104;06.02.2026;Weber & Söhne; München ;1009,79;775.5
+A0105;16.06.2026;Hoffmann KG;Hamburg;546.56;763.5
+A0106;08.06.2026;Fischer Trans;Köln;976.25;598.7
+A0107;24.04.2026;Weber & Söhne; Berlin ;505,24;49.6
+A0108;07.02.2026;Becker Handel;hamburg;665.11;144.2
+A0109;2026-05-08;Müller GmbH;HAMBURG;283,23;208.0
+A0110;2026-06-23;Fischer Trans; Berlin ;184.88;242.8
+A0111;19.03.2026;Becker Handel;BERLIN;626,26;459.7
+A0112;2026-01-06;Hoffmann KG; Köln ;1014,69;550.2
+A0113;2026-03-15;Weber & Söhne;Bonn;406.77;156.2
+A0114;2026-06-10;Müller GmbH;BERLIN;518,68;587.2
+A0115;17.04.2026;Weber & Söhne;BONN;267.67;427.0
+A0116;2026-05-04;Müller GmbH;bonn;499.1;377.3
+A0117;2026-06-23;Fischer Trans;KÖLN;1471.52;295.8
+A0118;18.05.2026;Hoffmann KG;Berlin;603.39;307.9
+A0119;22.06.2026;Schmidt Logistik; Köln ;115.54;732.6
+A0120;29.06.2026;Fischer Trans;Köln;659,78;247.0
+A0121;2026-03-02;Becker Handel;hamburg;272,64;595.8
+A0122;2026-04-17;Hoffmann KG;berlin;1263.84;227.4
+A0123;24.04.2026;Hoffmann KG;Berlin;415,28;297.0
+A0124;12.04.2026;Schmidt Logistik;München;1454.85;77.9
+A0125;2026-01-13;Becker Handel;bonn;425,87;59.5
+A0126;01.03.2026;Schmidt Logistik;BONN;289.53;
+A0127;14.02.2026;Becker Handel;Berlin;1310,36;631.8
+A0128;14.02.2026;Fischer Trans;Berlin;260,0;55.5
+A0129;2026-04-26;Becker Handel; Berlin ;1422,49;694.2
+A0130;2026-06-14;Fischer Trans;Hamburg;166,37;550.4
+A0131;21.01.2026;Hoffmann KG; Berlin ;290,63;470.4
+A0132;2026-06-02;Hoffmann KG;münchen;724.28;562.9
+A0133;21.04.2026;Müller GmbH; Berlin ;404,46;335.7
+A0134;2026-03-22;Müller GmbH; Köln ;611,51;58.4
+A0135;2026-01-25;Becker Handel;Berlin;609,16;765.5
+A0136;16.04.2026;Weber & Söhne;MÜNCHEN;1024.78;578.2
+A0137;01.04.2026;Weber & Söhne;MÜNCHEN;800,53;678.6
+A0138;2026-01-30;Becker Handel;München;895.22;779.8
+A0139;2026-06-05;Weber & Söhne;BERLIN;1257,83;563.6
+A0140;02.01.2026;Müller GmbH;köln;283.42;594.1
+A0141;07.04.2026;Becker Handel;München;564,07;622.6
+A0142;14.01.2026;Fischer Trans; Hamburg ;1151,3;357.3
+A0143;17.04.2026;Hoffmann KG; München ;1152,02;230.2
+A0144;2026-05-15;Weber & Söhne;bonn;144,49;11.1
+A0145;07.03.2026;Becker Handel;BONN;250,38;107.7
+A0146;19.01.2026;Weber & Söhne; München ;1133,7;66.9
+A0147;27.05.2026;Schmidt Logistik; München ;989,0;773.1
+A0148;2026-06-26;Becker Handel; Köln ;205.14;473.2
+A0149;2026-03-21;Becker Handel;münchen;394.63;508.4
+A0150;31.03.2026;Weber & Söhne;bonn;1440.68;86.7
+A0151;04.06.2026;Fischer Trans; München ;1158,0;504.2
+A0152;2026-06-24;Hoffmann KG;berlin;881.58;692.1
+A0153;23.04.2026;Becker Handel;KÖLN;707,94;49.7
+A0154;29.04.2026;Müller GmbH; München ;160.78;692.1
+A0155;2026-04-29;Becker Handel;BONN;1435.01;
+A0156;04.06.2026;Weber & Söhne;köln;294,22;719.8
+A0157;11.01.2026;Weber & Söhne; Berlin ;701,62;131.2
+A0158;2026-04-15;Weber & Söhne; Köln ;1044,03;271.0
+A0159;14.03.2026;Müller GmbH;münchen;1289.22;124.5
+A0160;31.03.2026;Müller GmbH; Berlin ;1011.6;568.5
+A0161;2026-06-14;Hoffmann KG;München;1234.72;592.3
+A0162;2026-06-15;Weber & Söhne;hamburg;802,05;761.2
+A0163;2026-02-27;Becker Handel;München;300,02;408.6
+A0164;19.06.2026;Hoffmann KG;münchen;1168,16;134.0
+A0165;23.04.2026;Hoffmann KG;hamburg;597.31;490.4
+A0166;17.05.2026;Hoffmann KG; München ;1451.15;159.2
+A0167;2026-04-29;Schmidt Logistik;münchen;1184.94;133.8
+A0168;06.03.2026;Becker Handel;KÖLN;762,44;570.6
+A0169;2026-01-22;Schmidt Logistik;HAMBURG;467.36;352.8
+A0170;07.01.2026;Schmidt Logistik;KÖLN;642,96;69.9
+A0171;2026-01-26;Fischer Trans; Bonn ;1002.94;233.1
+A0172;2026-04-25;Hoffmann KG; München ;1366,32;123.9
+A0173;2026-01-29;Becker Handel;Hamburg;417,45;513.0
+A0174;2026-01-29;Hoffmann KG;BONN;789.76;462.2
+A0175;20.04.2026;Becker Handel;Berlin;581.0;536.2
+A0176;2026-05-15;Fischer Trans; Köln ;1196.71;
+A0177;06.04.2026;Hoffmann KG;KÖLN;103.06;587.7
+A0178;04.02.2026;Fischer Trans;hamburg;855.34;624.4
+A0179;04.02.2026;Schmidt Logistik;KÖLN;1182,19;39.8
+A0180;2026-03-21;Schmidt Logistik;BERLIN;1484.55;603.9
+A0181;2026-01-13;Hoffmann KG; Hamburg ;551,33;712.1
+A0182;2026-03-28;Müller GmbH;Hamburg;784,61;417.8
+A0183;2026-04-21;Hoffmann KG;BERLIN;1247.72;68.7
+A0184;2026-04-25;Weber & Söhne; München ;685.08;38.7
+A0185;2026-03-12;Becker Handel;Bonn;1203,9;327.9
+A0186;2026-02-06;Hoffmann KG;BERLIN;1042,89;192.6
+A0187;2026-04-09;Fischer Trans;köln;125,99;299.9
+A0188;16.05.2026;Schmidt Logistik; Hamburg ;526,43;25.6
+A0189;24.05.2026;Hoffmann KG;hamburg;1180.45;491.4
+A0190;01.02.2026;Hoffmann KG;BERLIN;185,15;797.8
+A0191;2026-01-17;Hoffmann KG;BONN;492,31;569.1
+A0192;11.05.2026;Weber & Söhne;MÜNCHEN;1478.89;397.7
+A0193;2026-04-30;Hoffmann KG; Hamburg ;863.34;250.9
+A0194;2026-04-15;Hoffmann KG;MÜNCHEN;184.73;362.7
+A0195;2026-02-02;Fischer Trans;München;1187.97;773.2
+A0196;2026-02-01;Becker Handel;Berlin;511,86;184.2
+A0197;06.03.2026;Müller GmbH;münchen;1438,02;493.5
+A0198;2026-06-01;Becker Handel;Köln;298.96;486.1
+A0199;21.01.2026;Fischer Trans;München;990.86;614.7
+A0200;2026-05-08;Hoffmann KG;HAMBURG;854.72;199.7
+A0201;27.04.2026;Becker Handel;BONN;165,08;167.2
+A0202;2026-03-23;Becker Handel;KÖLN;1302.3;299.6
+A0203;03.03.2026;Fischer Trans; München ;459,81;235.7
+A0204;2026-03-05;Schmidt Logistik; Bonn ;1361.28;578.3
+A0205;12.05.2026;Fischer Trans;bonn;1328,29;317.6
+A0206;30.05.2026;Fischer Trans;Berlin;151,77;525.1
+A0207;28.01.2026;Fischer Trans;köln;1333.09;295.9
+A0208;2026-04-03;Becker Handel;München;184.42;227.4
+A0209;2026-02-02;Schmidt Logistik; Bonn ;639.34;751.5
+A0210;09.05.2026;Schmidt Logistik;münchen;135.26;417.9
+A0211;2026-03-25;Becker Handel; Berlin ;532,31;674.9
+A0212;25.05.2026;Becker Handel;Berlin;1238,36;784.0
+A0213;02.06.2026;Hoffmann KG; Köln ;1453.24;464.2
+A0214;2026-02-13;Schmidt Logistik;Köln;1104.08;658.2
+A0215;18.02.2026;Becker Handel;Hamburg;525,44;331.3
+A0216;30.06.2026;Weber & Söhne; Bonn ;374,43;422.8
+A0217;17.05.2026;Hoffmann KG; Berlin ;583.09;516.4
+A0218;2026-02-19;Weber & Söhne; Bonn ;476,19;785.9
+A0219;23.03.2026;Becker Handel; München ;875.89;233.8
+A0220;2026-04-12;Hoffmann KG;KÖLN;1435.54;233.7
+A0221;2026-04-24;Becker Handel;berlin;1141,22;220.6
+A0222;2026-01-28;Hoffmann KG;Bonn;913,3;427.2
+A0223;26.01.2026;Becker Handel; Bonn ;1098,65;9.1
+A0224;2026-06-17;Weber & Söhne;Berlin;1327,33;771.3
+A0225;2026-01-23;Schmidt Logistik;hamburg;409.75;34.7
+A0226;2026-01-10;Weber & Söhne;Köln;643,73;769.9
+A0227;2026-03-18;Becker Handel; München ;232.37;791.3
+A0228;2026-02-04;Fischer Trans;berlin;744,59;134.2
+A0229;2026-01-04;Hoffmann KG; Hamburg ;1202.89;144.5
+A0230;12.05.2026;Schmidt Logistik;KÖLN;649,18;384.6
+A0231;09.04.2026;Müller GmbH;BERLIN;1150.33;579.7
+A0232;27.06.2026;Hoffmann KG;Berlin;1028,26;550.4
+A0233;2026-06-13;Schmidt Logistik;HAMBURG;498.95;111.2
+A0234;2026-04-17;Schmidt Logistik;München;1376.17;661.4
+A0235;15.05.2026;Becker Handel;münchen;1079,35;54.1
+A0236;2026-05-27;Hoffmann KG; München ;313.64;545.8
+A0237;2026-01-24;Becker Handel; Köln ;712,59;335.3
+A0238;2026-06-22;Becker Handel;Köln;1107,06;597.9
+A0239;19.04.2026;Fischer Trans;KÖLN;170.54;59.9
+A0240;15.04.2026;Weber & Söhne; Hamburg ;272.31;771.2
+A0241;07.04.2026;Weber & Söhne;köln;1049.48;524.6
+A0242;18.05.2026;Weber & Söhne; Hamburg ;260.83;606.2
+A0243;17.05.2026;Hoffmann KG;Köln;406,12;154.8
+A0244;19.06.2026;Schmidt Logistik;Köln;1167.8;
+A0245;02.06.2026;Hoffmann KG; Köln ;928.85;
+A0246;23.04.2026;Weber & Söhne;BONN;388.52;405.6
+A0247;2026-05-28;Hoffmann KG;münchen;1035,0;118.9
+A0248;16.04.2026;Hoffmann KG; Hamburg ;166.56;729.7
+A0249;2026-01-13;Fischer Trans;hamburg;1417.05;258.4
+A0250;18.03.2026;Hoffmann KG; Bonn ;1151,27;244.1
+A0251;2026-01-15;Schmidt Logistik;Berlin;1454.26;198.1
+A0252;2026-04-26;Hoffmann KG;München;211.3;218.4
+A0253;19.01.2026;Weber & Söhne;Berlin;1161.61;386.1
+A0254;2026-02-24;Schmidt Logistik;münchen;1446,15;385.7
+A0255;2026-04-12;Weber & Söhne;BERLIN;863.95;429.3
+A0256;2026-04-03;Weber & Söhne;BONN;786,13;378.2
+A0257;22.03.2026;Becker Handel; München ;878,79;212.3
+A0258;17.03.2026;Hoffmann KG;BERLIN;548,41;401.9
+A0259;2026-05-06;Schmidt Logistik; Bonn ;991,21;637.0
+A0260;2026-02-17;Müller GmbH;Köln;849.83;31.9
+A0261;16.04.2026;Fischer Trans;Berlin;975,6;178.9
+A0262;2026-06-08;Becker Handel; München ;1406.14;17.5
+A0263;04.01.2026;Hoffmann KG;hamburg;1105.51;404.3
+A0264;2026-01-28;Weber & Söhne; Berlin ;824,63;205.7
+A0265;21.01.2026;Hoffmann KG;Köln;656.56;184.6
+A0266;24.01.2026;Müller GmbH; Hamburg ;615,58;563.8
+A0267;2026-06-15;Müller GmbH;bonn;883.52;424.9
+A0268;2026-06-27;Becker Handel;München;755,21;740.8
+A0269;2026-02-15;Hoffmann KG;Hamburg;526.57;603.0
+A0270;18.03.2026;Weber & Söhne;hamburg;421.47;717.7
+A0271;2026-06-26;Müller GmbH; Berlin ;791.13;352.5
+A0272;25.03.2026;Fischer Trans;hamburg;468.12;287.9
+A0273;2026-06-24;Müller GmbH;KÖLN;619.7;200.9
+A0274;09.02.2026;Müller GmbH;KÖLN;1193,12;291.8
+A0275;24.04.2026;Becker Handel; München ;463,07;361.8
+A0276;27.01.2026;Fischer Trans;KÖLN;582,56;262.9
+A0277;16.04.2026;Becker Handel;münchen;200.27;782.6
+A0278;25.06.2026;Fischer Trans; Berlin ;277,15;55.3
+A0279;18.03.2026;Becker Handel;münchen;189,23;501.9
+A0280;28.04.2026;Weber & Söhne;HAMBURG;512.61;498.1
+A0281;2026-04-21;Hoffmann KG; Bonn ;1300.5;259.9
+A0282;22.03.2026;Becker Handel;BONN;645,5;508.2
+A0283;07.04.2026;Becker Handel;Bonn;1195,93;163.8
+A0284;2026-04-29;Fischer Trans;hamburg;377.7;60.0
+A0285;12.06.2026;Fischer Trans; München ;438,81;304.7
+A0286;30.05.2026;Weber & Söhne;München;799.39;437.2
+A0287;2026-01-28;Hoffmann KG;HAMBURG;1013,79;40.2
+A0288;21.04.2026;Hoffmann KG;münchen;220,02;448.6
+A0289;25.04.2026;Müller GmbH;Hamburg;737.55;124.8
+A0290;17.03.2026;Weber & Söhne; Berlin ;1445,65;117.6
+A0291;2026-02-22;Müller GmbH;Berlin;574,59;364.7
+A0292;30.01.2026;Hoffmann KG;bonn;567,17;744.3
+A0293;22.05.2026;Schmidt Logistik; Bonn ;874.99;327.0
+A0294;12.04.2026;Hoffmann KG;bonn;952,03;314.1
+A0295;2026-03-13;Schmidt Logistik;BERLIN;1228,4;698.2
+A0296;20.02.2026;Becker Handel; Hamburg ;452.54;513.1
+A0297;31.05.2026;Weber & Söhne;München;579,82;540.5
+A0298;22.06.2026;Becker Handel; Hamburg ;247,36;556.3
+A0299;02.06.2026;Hoffmann KG;bonn;624,87;556.3
+A0300;06.05.2026;Müller GmbH;hamburg;345.68;693.1
+A0100;2026-05-31;Weber & Söhne; München ;1017.12;390.1
+A0197;06.03.2026;Müller GmbH;münchen;1438,02;493.5
+A0288;21.04.2026;Hoffmann KG;münchen;220,02;448.6
+A0259;2026-05-06;Schmidt Logistik; Bonn ;991,21;637.0
+A0254;2026-02-24;Schmidt Logistik;münchen;1446,15;385.7
+A0210;09.05.2026;Schmidt Logistik;münchen;135.26;417.9
+A0252;2026-04-26;Hoffmann KG;München;211.3;218.4
+A0213;02.06.2026;Hoffmann KG; Köln ;1453.24;464.2
+A0228;2026-02-04;Fischer Trans;berlin;744,59;134.2
+A0251;2026-01-15;Schmidt Logistik;Berlin;1454.26;198.1
